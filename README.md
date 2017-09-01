@@ -5,4 +5,4 @@ keras implementation of hierarchical category structure used in YOLO9000.
 Please read the sample code `sample_hierarchical_cifar10`.
 
 # What is not done
-No functions for `metrics` is prepared for hierarchical architecture. Any contribution is welcome =)
+No functions for `metrics` is prepared for the hierarchical architecture. Any contribution is welcome =)
